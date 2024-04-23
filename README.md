@@ -14,4 +14,4 @@ Installation procedures can be followed from this [link](https://github.com/udac
 ## Compiling and running
 
 To compile and run the project, you can follow these steps:
-![Alt Text](url_of_your_gif)
+![Alt Text](media/compile_run.gif)
