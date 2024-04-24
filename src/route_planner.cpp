@@ -1,4 +1,4 @@
-// call route_planner.h where we define class name and methods
+// Call route_planner.h where we define class name and methods
 #include "route_planner.h"
 #include <algorithm>
 
